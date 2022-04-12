@@ -1,0 +1,1 @@
+let ctx = document.body.querySelector('#myCanvas').getContext('2d')
